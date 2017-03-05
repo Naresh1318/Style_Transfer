@@ -16,5 +16,3 @@ Install all the required python dependencies using the following code :
 `python3 transfer_style.py -c_p <content_image_path> -s_p <style_image_path> -v`
 
 *Note:* Code is tested on python3 and is not guaranteed to work on python2.
-
-
